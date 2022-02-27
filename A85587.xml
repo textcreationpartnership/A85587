@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great discoverie of a plot in Scotland, by a miraculous meanes. Two great actors in the same being so taken with the sweet disposition of those worthies, against whom they plotted; that their troubled consciences would not permit them to proceed in their wicked intents. As also, the names of those lords, that should have bin cut off in this plot of Scotland. And the names of the conspirators. With the copy of a letter sent to the papists in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85587</idno>
+            <idno type="STC">Wing G1685</idno>
+            <idno type="STC">Thomason E173_12</idno>
+            <idno type="STC">ESTC R17406</idno>
+            <idno type="EEBO-CITATION">99860184</idno>
+            <idno type="PROQUEST">99860184</idno>
+            <idno type="VID">112298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112298)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great discoverie of a plot in Scotland, by a miraculous meanes. Two great actors in the same being so taken with the sweet disposition of those worthies, against whom they plotted; that their troubled consciences would not permit them to proceed in their wicked intents. As also, the names of those lords, that should have bin cut off in this plot of Scotland. And the names of the conspirators. With the copy of a letter sent to the papists in London.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This plot later known as the "Incident," supposedly involved an attempt to seize the Earl of Argyll and the Marquis of Hamilton.</note>
+                  <note>Portrait, too faded to identify, on final leaf.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661 --  Early works to 1800.</term>
+               <term>Hamilton, James Hamilton, --  Marquis of, 1589-1625 --  Early works to 1800.</term>
+               <term>Conspiracies --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112298:1" rendition="simple:additions"/>
+            <p>A GREAT DISCOVERIE OF A PLOT IN SCOTLAND, By a Miraculous meanes.</p>
+            <p>Two great ACTORS in the ſame being ſo taken with the ſweet diſpoſition of thoſe Worthies, againſt whom they Plotted; that their troubled Conſciences would not permit them to proceed in their wicked Intents.</p>
+            <p>As alſo, the Names of thoſe Lords, that ſhould have bin cut off in this Plot of <hi>Scotland.</hi> And the Names of the Conſpirators.</p>
+            <p>VVith the COPY of a LETTER ſent to the Paipiſts in LONDON.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Bernard Alſop,</hi> MDCXLJ.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112298:2"/>
+            <head>A LETTER Sent to Mr. PYM.<hi rend="sup">&amp;c.</hi>
+            </head>
+            <p>SIR, things were lately in a very hopefull way of Ac<g ref="char:EOLhyphen"/>commodation. But on Munday night laſt, there fell out a great interruption, for upon information given to Marquis <hi>Hamilton,</hi> the Earle of <hi>Argile,</hi> and the Earle of <hi>Lanericke,</hi> that there was a deſigne to ſeize upon their perſons that night, they removed preſently from their Lodgings, and ſtayed in the City all night, and the neut morning, the Rela<g ref="char:EOLhyphen"/>tion being made to the Parliament, there was preſent order given for the ſhutting of the Ports, &amp; ſetting of the Guards of the Towne, which continue ſo ſtill, and the ſame day, the Marquiſſe <hi>Hamilton,</hi> the Earle of <hi>Argile,</hi> and the Earle of <hi>Lanericke, departed hence to a houſe of the Marqueſſes, about</hi> 12. <hi>miles of, where they continue ſtill.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Edenburg Caſtle</hi> 
+                  <date>
+                     <hi>Octob.</hi> 14. 194.</date>
+               </dateline>
+               <signed>Sir Wee are your Friends and Servants
+<list>
+                     <item>
+                        <hi>Iohn Hambden,</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Fines.</hi>
+                     </item>
+                     <item>
+                        <hi>N. Axmine.</hi>
+                     </item>
+                     <item>
+                        <hi>Phil. Stapleton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:112298:2"/>
+            <head>THE REPORT OF <hi>The Diſcorery of a PLOT in SCOTLAND.</hi>
+            </head>
+            <p>WHy doe you ſeeke to worke ſuch miſchiefe! O yee miſchievous Sons of <hi>Rome,</hi> doe ye not know, that God will finde you out, what though you have thouſands in readineſſe to ſurprize thoſe Noble Worthies: yet is your policy but as chaffe before the wind.</p>
+            <p>
+               <hi>Though the wretched Papiſts in Scotland were agreed, in a moment, on a ſudden, to call their Forces at unawares to fall upon thoſe Starres, which ſhine ſo cleare in our Horizon.</hi>
+            </p>
+            <p>With powder, wild-fire, men, and armes, and had by great ſutlely got together, and with great Coſt, and toyle provided in readineſſe, and thought alſo to have cut off. thoſe honourable &amp; worthy Peeres, who were entred into <hi>Covenant with the Lord,</hi> Such is their bloudy deſigns, no more, but a word &amp; a blow. Nay, more no more but a word and blood, life, liberty, and utter ruine: but conſider, ye fond Jeſuits, and treacherous Papiſts; for it is moſt cer<g ref="char:EOLhyphen"/>taine, that God who ſitteth in the higheſt Heavens, doth ſee you, and doth certainly laugh you to ſcorne, and your ſelves ſhall fall into the ſame Pit, which you have digged for the Righteous.</p>
+            <pb facs="tcp:112298:3"/>
+            <p>The day was appointed, wherein the blood-thir<g ref="char:EOLhyphen"/>ſty hoped to ſee the Lambes ſlaine before them, the Honourable <hi>Covenanters of Scotland cut off,</hi> and the beſt of them blaſted in the Ayre, &amp; daſht to peeces; O moſt cruell Satyrs. <hi>But ſuch is the goodneſſe of Al<g ref="char:EOLhyphen"/>mighty God, that the Righteous are preſerved, and the Wicked are taken in their owne nets.</hi>
+            </p>
+            <p>
+               <hi>Two of their Agents, whom they thought were as true to them, and faithfull to their unfaithfull Plots, even as their owne hearts; yet were they ſmitten in Conſci<g ref="char:EOLhyphen"/>ence.</hi> What (ſaith the one) ſhall I embrue my hands in the blood of thoſe who never thought on ill, ſhall Ibe confederate with traytors, and Rebels, to ſlay the Innocent. And ſaith the other, what ſhall I plot and bloodily ſeeke to take away the life of ſuch Peeres as theſe, whoſe Noble gifts deſerve ſo much honor, who are admired for their worth; and are become e<g ref="char:EOLhyphen"/>ven the very wonder, and <hi>Admiration to all Europe.</hi> Who can but love them; it were great cruelty to wiſh them any harme: what would it then bee, to conſpire in cruelty to work their utter Deſtruction? How lamentable a ſpectacle would it be, to ſee thoſe Stars which ſhine ſo cleare in our <hi>Parliamentary Aſſembly,</hi> ſo torn and rent to peeces with powder, and trodden under the feet of Rebels! Surely it were a moſt unchriſtian thing to be ſo treacherous againſt thoſe who have adventured both <hi>life, liberty, honour, goods, Eſtates,</hi> &amp; all that they have, for the perpetuall good of our Nation, and ſtill make it the uttermoſt of their indeavour to pitch upon our happy being, and to make us an happy Nation. Did we plot a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:112298:3"/>Rogues, and Vagabonds, againſt Tyrants, and cruell Pagans, it were more tolerable. Nay more, were it againſt furious Zoilis ſpirits, or mercileſſe, uncharitable, envious Raſcals, it might ſeduce us: <hi>ſhall we ſo treacherouſly plot, to deſtroy ſuch Nobles, as theſe: whoſe ſweet, courteous, affable, loving diſpoſitions, would prick the heart, and wound the Conſcience of the fierceſt Turke, or Pagan, if any ſparke of humanity hath biding in him. Having thus conſidered with themſelvs theſe two imparting, each their minds to one another, and thereupon adviſing what to doe.</hi>
+            </p>
+            <p>It beſeemed at firſt too impoſſible a work to diſ<g ref="char:EOLhyphen"/>cover without great prejudice, many thoughts they had, how to wind themſelves out, and little hope of finding any courſe pleaſant, or any reſolution to give them any ſatisfaction. Such were the iſſues of their former deſignes, with the Plotters in their Evill wayes, that now they were brought into a thouſand ſtraites what to doe. If they proceed, a thouſand to one, but in the end they will be found out, and dye like Traytors; or if they leave of, now they have begun, they are yet in a great ſtrait.</p>
+            <p>Jf <hi>wee</hi> leave off, and reveale nothing; then <hi>wee</hi> are in danger, that the ſame Conſpirators with whom <hi>wee</hi> wrought, will conſpire againſt us.</p>
+            <p>Jf we reveale part, and not entirely, we may bee trapt; and ſo without further delay dye Traytors.</p>
+            <p>If we reveale all, we are to anſwer a great matter, and our lives, Eſtates, and all wee have may be taken from us, and we liue all our dayes in ignominy and diſgrace.</p>
+            <pb facs="tcp:112298:4"/>
+            <p>Now the Lord-by his all-ruling hand directed there courſe to take the ſafeſt way, both for themſelves, and the Kingdome.</p>
+            <p>They addreſſe themſelves to the King and Par<g ref="char:EOLhyphen"/>liament, there they diſcover what they know, and lay open what is plotted againſt them, caſting them<g ref="char:EOLhyphen"/>ſelves upon their mercies, expoſing themſelvs rather to fall into their hands, then to goe on, and lye at Sa<g ref="char:EOLhyphen"/>tans mercy, or diſſemblingly to lye ſtill, between hot and cold, continually under the burden of a troubled <hi>Conſcience.</hi>
+            </p>
+            <p>
+               <hi>ow may we ſee, how gratiouſly ſtill the Lord is pleaſed to worke for his People, and to overthrow the evill Plottings, and Conſpiracies, of the Papiſts, and all ungodly Blood-thirſty Rebels.</hi>
+            </p>
+            <div type="part">
+               <head>The Names of thoſe Lords that <hi>ſhould have been cut off</hi> in this Plot of <hi>Scotland.</hi>
+               </head>
+               <p>The Marquiſe <hi>Hamilton.</hi> The Earle of <hi>Argile.</hi> The Lord <hi>Balmerido.</hi> The Lord <hi>Lowdon.</hi> Generall <hi>Leſly.</hi> The Lord <hi>Lindſey</hi> the Marquiſſes Brother, &amp; ſome others.</p>
+            </div>
+            <div type="part">
+               <head>The Conſpirators Names.</head>
+               <p>The Earle of <hi>Craford.</hi> The Lord <hi>Aymond</hi> Lieute<g ref="char:EOLhyphen"/>nant Generall. The Lord <hi>Carre.</hi> The Lord <hi>Craford</hi> committed as a Priſoner.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112298:4"/>
+            <head>A coppie of a LETTER brought to <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>T, C. Y. W. A. Ne.</salute>
+            </opener>
+            <p>MAſter <hi>Lee</hi> with much griefe and ſorrow hath this diſcoverie come to us, we feare ſome falſe brethren among you at <hi>London,</hi> or in <hi>Weſtminſter,</hi> therefore be carefull, and ſweare all as wee ordered you, and bee ſure you ſet the right, <hi>IHS</hi> and the true word before you therefore take the oath, and ſeeing the former will not take that happie ſucceſſe and ef<g ref="char:EOLhyphen"/>fect much wiſhed by all true hearted Catholikes, yet wee entreate you to put in practice your worke, and according to Sir <hi>S, H,</hi> his order, and divide your companies to thoſe parts of the City as you had the laſt direction, let the Tow<g ref="char:EOLhyphen"/>er be the chiefe aime, draw the prople from the Tower by the firſt and ſecond commotion, and wee will warrant Maſter <hi>B, G.</hi> will third you, for he of all, leaſt of all will be ſuſpected. At 9. in the morning is the time, fall on, if we die, ye die together, but having begun, hold on till death which will at the leaſt will bee Honourable martyrdome, Now the better to proceed, make no noiſe, leſt the proud
+<pb facs="tcp:112298:5"/>City Captains prevent your deſignes, for now or never, if now then ever. Therefore publiſh it to the true mem<g ref="char:EOLhyphen"/>bers, the ſign-perfit to all the Actors, you ſee we are pre<g ref="char:EOLhyphen"/>vented, now let no feare make you faile in this ſo good a worke, you all know our lives lye at the ſtake, therefore now fight for life and Relgion.</p>
+            <p>Money for pay, you ſhall have in full, as wee agreed now remember what is to be done, make readie the 300. at M. gate, and all with Piſtolls and Swords, and for the <hi>C. W.</hi> dit with m. rn. ſuddenly, as we appointed, and ſee you faile not as you love your lives.</p>
+            <closer>
+               <signed>In the meane time Pray, And ſo I reſt. Your ſervant <hi>T.W.S, M.N.</hi> Amicus certus in certi cernitur.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>The Poſtſcript of the letter which was ſent to <hi>London</hi> being in the firſt Impreſsion left out.</head>
+            <p>VVE muſt be revenged on this baſe City, wee now muſt not deſiſt, be valiant for ſome (that is not the leaſt) in this Kingdome is verily for us, I have coun<g ref="char:EOLhyphen"/>ternamed my hand leaſt it ſhould miſcarie, therefore bee carefull, and when you have read it, and ſhewed the five Captains, take it and burn it, ſoe leaſt all our events bee wiſhed</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112298:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
